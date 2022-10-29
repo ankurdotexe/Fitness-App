@@ -1,0 +1,454 @@
+[
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_exersice_3.gif.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\drawable-v24\\exersice_3.gif"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\drawable_button_bg.xml.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\drawable\\button_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_windmill2.xml.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\layout\\activity_windmill2.xml"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn.xml.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\drawable\\btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_splashh.jpg.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\drawable-v24\\splashh.jpg"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\drawable_icon.jpg.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\drawable\\icon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_third.xml.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\layout\\activity_third.xml"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_exersice_12.gif.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\drawable-v24\\exersice_12.gif"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_baseline_keyboard_arrow_left_24.png.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_keyboard_arrow_left_24.png"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_situp2.xml.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\layout\\activity_situp2.xml"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_exersice_4.gif.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\drawable-v24\\exersice_4.gif"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_exersice_2.gif.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\drawable-v24\\exersice_2.gif"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\anim_up.xml.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\anim\\up.xml"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_baseline_keyboard_arrow_right_24.png.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_keyboard_arrow_right_24.png"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_ic_baseline_keyboard_arrow_left_24.xml.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_keyboard_arrow_left_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_playji.xml.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\layout\\activity_playji.xml"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_exersice_11.gif.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\drawable-v24\\exersice_11.gif"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_pause2.xml.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\layout\\activity_pause2.xml"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_baseline_keyboard_arrow_left_24.png.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_keyboard_arrow_left_24.png"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\drawable_button_bg_round.xml.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\drawable\\button_bg_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_chair2.xml.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\layout\\activity_chair2.xml"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_exersice_5.gif.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\drawable-v24\\exersice_5.gif"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_baseline_keyboard_arrow_left_24.png.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_keyboard_arrow_left_24.png"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_exersice_1.gif.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\drawable-v24\\exersice_1.gif"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_bow2.xml.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\layout\\activity_bow2.xml"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_baseline_keyboard_arrow_left_24.png.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_keyboard_arrow_left_24.png"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\drawable_button_ji.xml.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\drawable\\button_ji.xml"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_second.xml.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\layout\\activity_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_baseline_keyboard_arrow_right_24.png.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_keyboard_arrow_right_24.png"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_rotation.xml.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\layout\\activity_rotation.xml"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_pause.xml.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\layout\\activity_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_exersice_10.gif.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\drawable-v24\\exersice_10.gif"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_bridge.xml.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\layout\\activity_bridge.xml"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_baseline_keyboard_arrow_left_24.png.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_keyboard_arrow_left_24.png"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_exersice_13.gif.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\drawable-v24\\exersice_13.gif"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_plank2.xml.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\layout\\activity_plank2.xml"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_cobbler.xml.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\layout\\activity_cobbler.xml"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_cow2.xml.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\layout\\activity_cow2.xml"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_bow.xml.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\layout\\activity_bow.xml"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_cobbler2.xml.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\layout\\activity_cobbler2.xml"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_exersice_7.gif.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\drawable-v24\\exersice_7.gif"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_third2.xml.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\layout\\activity_third2.xml"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_food.xml.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\layout\\activity_food.xml"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_splashscreenok.xml.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\layout\\activity_splashscreenok.xml"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_legup2.xml.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\layout\\activity_legup2.xml"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_exersice_15.gif.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\drawable-v24\\exersice_15.gif"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_baseline_keyboard_arrow_right_24.png.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_keyboard_arrow_right_24.png"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_playji2.xml.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\layout\\activity_playji2.xml"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_second2.xml.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\layout\\activity_second2.xml"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_crunches.xml.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\layout\\activity_crunches.xml"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_exersice_8.gif.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\drawable-v24\\exersice_8.gif"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_windmill.xml.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\layout\\activity_windmill.xml"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\anim_down.xml.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\anim\\down.xml"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\layout_row.xml.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\layout\\row.xml"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_cow.xml.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\layout\\activity_cow.xml"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_baseline_keyboard_arrow_right_24.png.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_keyboard_arrow_right_24.png"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_child2.xml.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\layout\\activity_child2.xml"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon.jpg.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\drawable-v24\\icon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_child.xml.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\layout\\activity_child.xml"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_splash_icon.png.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\drawable-v24\\splash_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_bridge2.xml.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\layout\\activity_bridge2.xml"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_food.jpg.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\drawable-v24\\food.jpg"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_baseline_keyboard_arrow_right_24.png.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_keyboard_arrow_right_24.png"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_twist.xml.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\layout\\activity_twist.xml"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_baseline_keyboard_arrow_right_24.png.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_keyboard_arrow_right_24.png"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_chair.xml.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\layout\\activity_chair.xml"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_exersice_14.gif.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\drawable-v24\\exersice_14.gif"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_exersice_9.gif.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\drawable-v24\\exersice_9.gif"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\drawable_backgroundcrop.xml.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\drawable\\backgroundcrop.xml"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_rotation2.xml.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\layout\\activity_rotation2.xml"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_baseline_keyboard_arrow_left_24.png.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_keyboard_arrow_left_24.png"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_twist2.xml.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\layout\\activity_twist2.xml"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_plank.xml.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\layout\\activity_plank.xml"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_ic_baseline_keyboard_arrow_right_24.xml.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_keyboard_arrow_right_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_situp.xml.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\layout\\activity_situp.xml"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_crunches2.xml.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\layout\\activity_crunches2.xml"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_exersice_6.gif.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\drawable-v24\\exersice_6.gif"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_splash.jpg.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\drawable-v24\\splash.jpg"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_food_details.xml.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\layout\\activity_food_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_legup.xml.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\layout\\activity_legup.xml"
+    },
+    {
+        "merged": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\91638\\Desktop\\Fitness app MAin\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    }
+]

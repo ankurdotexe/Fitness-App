@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#FFF"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <pl.droidsonroids.gif.GifImageView
+                android:layout_width="fill_parent"
+                android:layout_height="200dp"
+                android:layout_margin="10dp"
+                android:src="@drawable/exersice_2" />
+
+            <Button
+                android:id="@+id/time"
+                android:layout_width="170dp"
+                android:layout_height="170dp"
+                android:layout_marginLeft="105dp"
+                android:layout_marginTop="35dp"
+                android:background="@drawable/button_bg_round"
+                android:padding="15dp"
+                android:text="01:00"
+                android:textSize="28dp" />
+
+            <Button
+                android:id="@+id/startbutton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="08dp"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/button_bg"
+                android:gravity="center"
+                android:text="Start"
+                android:textColor="@color/white"
+                android:textSize="28sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="305dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="28dp"
+                android:layout_marginLeft="35dp"
+                android:layout_marginTop="50dp"
+                android:background="@drawable/button_ji"
+                android:padding="7dp"
+                android:text="How to do this"
+                android:textAlignment="center"
+                android:textColor="#686060"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                app:cardCornerRadius="20dp"
+                android:background="#ECEDE8"
+                android:layout_marginBottom="10dp"
+                />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5dp"
+                android:layout_marginEnd="5dp"
+                android:layout_marginLeft="5dp"
+                android:background="#ECEDE8"
+                android:layout_marginTop="25dp"
+                android:orientation="horizontal"
+                >
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#ECEDE8"
+                    android:text="@string/pose2"
+                    android:textColor="@color/black"
+                    android:textSize="18dp"
+                    />
+
+
+
+
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="305dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="28dp"
+                android:layout_marginLeft="35dp"
+                android:layout_marginTop="50dp"
+                android:background="@drawable/button_ji"
+                android:padding="7dp"
+                android:text="Benefits"
+                android:textAlignment="center"
+                android:textColor="#686060"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+
+                <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="10dp"
+                android:background="#ECEDE8"
+                app:cardCornerRadius="20dp" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="25dp"
+                android:layout_marginEnd="5dp"
+                android:background="#ECEDE8"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#ECEDE8"
+                    android:text="@string/pose2a"
+                    android:textColor="@color/black"
+                    android:textSize="18dp" />
+
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</RelativeLayout>
